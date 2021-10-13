@@ -35,13 +35,13 @@ namespace task4
 			for (int j = 0; j < column; j++) {
 				std::cout << matrix[i][j] << " ";
 			}
-			std::cout << std::endl;
+			std::cout <<" fsdfsd"<< std::endl;
 		}
+		string n;
 	}
 
 	int** initMatrix(int row, int column) {
 		int** matrix = new int* [row];
-
 		for (int i = 0; i < row; i++) {
 			matrix[i] = new int[column];
 			for (int j = 0; j < column; j++) {
