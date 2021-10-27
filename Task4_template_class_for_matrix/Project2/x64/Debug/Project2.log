@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\SDT\Task4_template_class_for_matrix\Project2\Source.cpp(67,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\SDT\Task4_template_class_for_matrix\Project2\Source.cpp(108,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\SDT\Task4_template_class_for_matrix\Project2\Source.cpp(172,12): warning C4101: medium: неиспользованная локальная переменная
+D:\SDT\Task4_template_class_for_matrix\Project2\Source.cpp(257,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project2.vcxproj -> D:\SDT\Task4_template_class_for_matrix\x64\Debug\Project2.exe

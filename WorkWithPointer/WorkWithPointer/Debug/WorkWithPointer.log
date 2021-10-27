@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\SDT\WorkWithPointer\WorkWithPointer\Source.cpp(56): warning C4172: возвращение адреса локальной или временной переменной : result
+  WorkWithPointer.vcxproj -> D:\SDT\WorkWithPointer\Debug\WorkWithPointer.exe
