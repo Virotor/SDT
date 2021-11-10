@@ -9,3 +9,4 @@
 *[Задание 4. New, ptr](Task-4.md)*  
 *[Задание 5. Function](Task-5.md)*  
 *[Задание 6. Pure Function, Refactoring](Task6.pdf)*  
+*[Задание 7. Struct, string](Task-7.md)*
