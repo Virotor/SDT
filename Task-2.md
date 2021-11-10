@@ -103,7 +103,7 @@
 ## Приоритет операторов
 
 |Приоритет|Операторы|
-|:---:|---|:---:|
+|:---:|:---:|
 |1|::|
 |2|++,--,(),[],.,->,typeid(),const_cast,dynamic_cast,reinterpret_cast,static_cast|
 |3|++,--,+,-,!,~,(type),\*,&,sizeof, new, new[\],delete,delete[]|
