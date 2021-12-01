@@ -11,3 +11,6 @@
 *[Задание 6. Pure Function, Refactoring](Task6.pdf)*  
 *[Задание 7. Struct, string](Task-7.md)*
 *[Задание 8. Diagrams, Patterns, Testing](Task-8.md)*
+
+
+*[Презентация по файлами С++](FILE.pdf)*
