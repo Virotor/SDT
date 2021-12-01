@@ -13,4 +13,4 @@
 *[Задание 8. Diagrams, Patterns, Testing](Task-8.md)*
 
 
-*[Презентация по файлами С++](FILE.pdf)*
+*[Презентация по файлам С++](FILE.pdf)*
